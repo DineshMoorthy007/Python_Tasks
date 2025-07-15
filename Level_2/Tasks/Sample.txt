@@ -1,0 +1,2 @@
+This is the sample text for file handling operation illustrations.
+this file is used for demo purpose.
